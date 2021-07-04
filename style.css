@@ -62,10 +62,23 @@ section{
 .alada1{
     width: 50%;
     text-align: justify;
-    border: 2px solid tomato;
+    border:2px solid rgba(236, 176, 176, 0.082);
+    border-radius: 20px;
     margin: 20px;
     padding: 50px;
+    box-shadow: 10px 7px 15px rgb(216, 186, 186);
+}
+.new{
+    background-image: url(back-ground/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left ;
 }
 .new h1{
     padding-left: 20px;
+   
+}
+footer p{
+    text-align: center;
+    color: rgba(62, 63, 61, 0.849);
+    font-weight: 800
 }
